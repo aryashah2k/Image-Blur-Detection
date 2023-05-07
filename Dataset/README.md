@@ -8,4 +8,6 @@ Given Dataset Was A Subset of CERTH Dataset
 
 If you use the CERTH image blur dataset in your research work, please cite the following paper:
 
-```E. Mavridaki, V. Mezaris, "No-Reference blur assessment in natural images using Fourier transform and spatial pyramids", Proc. IEEE International Conference on Image Processing (ICIP 2014), Paris, France, October 2014.```
+```
+E. Mavridaki, V. Mezaris, "No-Reference blur assessment in natural images using Fourier transform and spatial pyramids", Proc. IEEE International Conference on Image Processing (ICIP 2014), Paris, France, October 2014.
+```
