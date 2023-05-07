@@ -37,3 +37,7 @@ MobileNet Weights: <a href="https://github.com/aryashah2k/Image-Blur-Detection/b
 
 ## Model Testing
 ![Model Testing](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Testing.PNG)
+
+----------------------------------------------------
+
+Status: Did Not Hear Back :(
