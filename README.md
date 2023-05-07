@@ -14,9 +14,17 @@ Google Drive Link: https://drive.google.com/file/d/1oMYiZWvCea4Q_hf2V43DA7n_C_EY
 
 |No.|Name|Link|
 |---|----|----|
-|1.|train.py|<a href="">Click To View</a>|
-|2.|test.py|<a href="">Click To View</a>|
-|3.|Documentation|<a href="">Click To View</a>|
-|4.|Dataset|<a href="">Click To View</a>|
-|5.|Model Checkpoints|<a href="">Click To View</a>|
-|6.|requirements.txt|<a href="">Click To View</a>|
+|1.|train.py|<a href="https://github.com/aryashah2k/Image-Blur-Detection/blob/main/train.py">Click To View</a>|
+|2.|test.py|<a href="https://github.com/aryashah2k/Image-Blur-Detection/blob/main/test.py">Click To View</a>|
+|3.|Documentation|<a href="https://github.com/aryashah2k/Image-Blur-Detection/tree/main/Documentation">Click To View</a>|
+|4.|Dataset|<a href="https://github.com/aryashah2k/Image-Blur-Detection/tree/main/Dataset">Click To View</a>|
+|5.|Model Checkpoints|<a href="https://github.com/aryashah2k/Image-Blur-Detection/tree/main/Model%20Checkpoints">Click To View</a>|
+|6.|requirements.txt|<a href="https://github.com/aryashah2k/Image-Blur-Detection/blob/main/requirements.txt">Click To View</a>|
+
+---------------------------------------------------
+
+# Results
+
+![Model Summary](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Summary.PNG)
+![Model Training](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Training.PNG)
+![Model Testing](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Testing.PNG)
