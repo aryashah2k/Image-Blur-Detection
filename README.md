@@ -25,6 +25,15 @@ Google Drive Link: https://drive.google.com/file/d/1oMYiZWvCea4Q_hf2V43DA7n_C_EY
 
 # Results
 
+Model Checkpoint Used: <a href="https://github.com/aryashah2k/Image-Blur-Detection/blob/main/model_05-0.89.h5">Model.h5</a>
+
+MobileNet Weights: <a href="https://github.com/aryashah2k/Image-Blur-Detection/blob/main/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_192_no_top.h5">MobileNetv2</a>
+
+## Model Summary
 ![Model Summary](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Summary.PNG)
+
+## Model Training
 ![Model Training](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Training.PNG)
+
+## Model Testing
 ![Model Testing](https://github.com/aryashah2k/Image-Blur-Detection/blob/main/assets/Model%20Testing.PNG)
